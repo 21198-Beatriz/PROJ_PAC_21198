@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ods</string>
+    <string name="score_screen_title">Pontuação de Portugal</string>
+    <string name="score_screen_edit_button">Editar</string>
+    <string name="homepage_topbar_title">Homepage</string>
+    <string name="homepage_button_text_bottom">Pontuação de Portugal</string>
+    <string name="register_username_label">Username</string>
+    <string name="register_password_label">Password</string>
+    <string name="register_confirm_password_label">Confirm Password</string>
+    <string name="register_create_account_button_label">Criar conta</string>
+    <string name="register_back_to_login_button_label">Voltar ao Login</string>
+    <string name="ods_back_to_initial_page">Voltar à página inicial</string>
+    <string name="ods_object_not_found">Objetivo não encontrado</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_username_label">Username</string>
+    <string name="login_welcome_message">Bem Vindo/a!\nAgenda 2030 – Objetivos de Desenvolvimento Sustentável (ODS)!</string>
+</resources>
